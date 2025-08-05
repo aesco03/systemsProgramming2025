@@ -66,7 +66,7 @@ fn read_entire_file() {
     file.read_to_string(&mut contents).unwrap();
     println!("File contents:\n{}", contents);
 }
-
+// opening is the sam but can decide how file is read
 fn read_file_line_by_line() {
     let file = File::open("example.txt").unwrap();
     let reader = BufReader::new(file);

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Systems Programming With Rust Course:
 
 **Week#0 Dev Environment Setup. Rapid CS 101 Ideas. -> Update Done**
@@ -22,3 +23,6 @@
 
 **Week11 Single Server, Multu-Threaded Server, Concurrency problems**
 
+=======
+# systemsProgramming2025
+>>>>>>> e1c309321da3cb16157a346c678f38ebe4062797

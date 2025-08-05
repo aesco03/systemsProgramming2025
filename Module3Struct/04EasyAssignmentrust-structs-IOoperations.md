@@ -31,6 +31,9 @@ fn reading_from_console() {
     let person = Person { name, age };
     println!("Hi {}, you are {} years old!", person.name, person.age);
 }
+fn main(){
+    reading_from_console();
+}
 ```
 
 ### Reading from File
@@ -67,6 +70,10 @@ fn reading_from_file() {
     println!("username: {}", config.username);
     println!("api key: {}", config.api_key);
     println!("port: {}", config.port);
+}
+
+fn main(){
+    reading_from_file();    
 }
 ```
 
