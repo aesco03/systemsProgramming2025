@@ -1,0 +1,1 @@
+/workspaces/systemsProgramming2025/rustprogramming/00myAssignments/HW1/temp_converter/target/debug/temp_converter: /workspaces/systemsProgramming2025/rustprogramming/00myAssignments/HW1/temp_converter/src/main.rs
