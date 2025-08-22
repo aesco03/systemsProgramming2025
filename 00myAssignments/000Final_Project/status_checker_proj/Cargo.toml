@@ -1,0 +1,15 @@
+[package]
+name = "status_checker_proj"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ureq = "2.10"
+serde = { version = "1.0", features = ["derive"] }
+chrono = { version = "0.4", features = ["serde"] }
+serde_json = "1.0"  
+
+[dev-dependencies]
+# For testing only
+mockito = "1.4" 
+criterion = "0.5"

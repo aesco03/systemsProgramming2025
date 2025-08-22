@@ -1,0 +1,167 @@
+[
+  {
+    "url": "https://example.com",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 56807869
+    },
+    "timestamp": "2025-08-22T02:22:09.243544167Z"
+  },
+  {
+    "url": "https://google.com",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 129959631
+    },
+    "timestamp": "2025-08-22T02:22:09.243377046Z"
+  },
+  {
+    "url": "https://github.com",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 167181397
+    },
+    "timestamp": "2025-08-22T02:22:09.243462775Z"
+  },
+  {
+    "url": "https://httpbin.org/status/200",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 239108602
+    },
+    "timestamp": "2025-08-22T02:22:09.242901387Z"
+  },
+  {
+    "url": "https://httpbin.org/status/500",
+    "status": {
+      "Ok": 500
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 267420287
+    },
+    "timestamp": "2025-08-22T02:22:09.243199477Z"
+  },
+  {
+    "url": "https://stackoverflow.com",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 275104276
+    },
+    "timestamp": "2025-08-22T02:22:09.243907025Z"
+  },
+  {
+    "url": "https://crates.io",
+    "status": {
+      "Ok": 404
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 258396759
+    },
+    "timestamp": "2025-08-22T02:22:09.373344451Z"
+  },
+  {
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 121765678
+    },
+    "timestamp": "2025-08-22T02:22:09.510626317Z"
+  },
+  {
+    "url": "https://api.github.com",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 152502598
+    },
+    "timestamp": "2025-08-22T02:22:09.519017572Z"
+  },
+  {
+    "url": "https://www.reddit.com",
+    "status": {
+      "Ok": 403
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 54897769
+    },
+    "timestamp": "2025-08-22T02:22:09.631749925Z"
+  },
+  {
+    "url": "https://rust-lang.org",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 402901305
+    },
+    "timestamp": "2025-08-22T02:22:09.300359571Z"
+  },
+  {
+    "url": "https://httpbin.org/status/404",
+    "status": {
+      "Ok": 404
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 485926466
+    },
+    "timestamp": "2025-08-22T02:22:09.243065326Z"
+  },
+  {
+    "url": "https://invalid-url-that-should-fail.nonexistent",
+    "status": {
+      "Err": "Transport error: https://invalid-url-that-should-fail.nonexistent/: Dns Failed: resolve dns name 'invalid-url-that-should-fail.nonexistent:443': failed to lookup address information: Name or service not known"
+    },
+    "response_time": {
+      "secs": 0,
+      "nanos": 279844447
+    },
+    "timestamp": "2025-08-22T02:22:09.541779518Z"
+  },
+  {
+    "url": "https://httpbin.org/delay/2",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 2,
+      "nanos": 248571894
+    },
+    "timestamp": "2025-08-22T02:22:09.243285154Z"
+  },
+  {
+    "url": "https://httpbin.org/status/301",
+    "status": {
+      "Ok": 200
+    },
+    "response_time": {
+      "secs": 2,
+      "nanos": 661889525
+    },
+    "timestamp": "2025-08-22T02:22:09.482012764Z"
+  }
+]
